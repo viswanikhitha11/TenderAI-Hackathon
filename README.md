@@ -1,6 +1,10 @@
 # TenderAI - Government Tender Evaluation Platform
 
-AI-powered prototype for automated government tender eligibility screening.
+AI-powered prototype for automated government tender eligibility screening built for the AI for Bharat Hackathon.
+
+## Team Name
+CivicMind AI
+
 
 ## Problem Statement
 Government tender screening is often manual, time-consuming, and prone to inconsistencies.
@@ -33,5 +37,3 @@ streamlit run app.py
 - improved transparency
 - scalable deployment for government procurement
 
-## Team
-CivicMind AI
